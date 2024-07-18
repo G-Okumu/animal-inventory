@@ -1,0 +1,52 @@
+{
+  "animals": [
+    {
+      "id": 1,
+      "name": "Lion",
+      "age": 32,
+      "type": "Carnivorer",
+      "national parks": [
+        "Nairobi",
+        "Serengeti"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Elephant",
+      "age": 20,
+      "type": "Herbivorers",
+      "national parks": [
+        "Nairobi",
+        "Massai Mara"
+      ]
+    },
+    {
+      "name": "Hyena",
+      "age": 10,
+      "type": "Carnivorer",
+      "national parks": [
+        "Nairobi",
+        "Serengeti"
+      ],
+      "id": 3
+    },
+    {
+      "name": "Owl",
+      "age": "23",
+      "type": "bird",
+      "id": 4
+    },
+    {
+      "name": "cow",
+      "age": "5",
+      "type": "herbivore",
+      "id": 5
+    },
+    {
+      "name": "sheep",
+      "age": "2",
+      "type": "herbivorer",
+      "id": 6
+    }
+  ]
+}
